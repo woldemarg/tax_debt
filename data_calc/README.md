@@ -1,6 +1,6 @@
-﻿## Описание файлов
+## Описание файлов
 
-#### Результаты выполнения основные скриптов из папки [scripts](https://github.com/woldemarg/tax-debt/tree/master/scripts/)
+#### Результаты выполнения основные скриптов из папки [scripts](https://github.com/woldemarg/tax_debt/tree/master/scripts)
 
 * **fop_regs.csv.gz** - список ФОПов из ЕГРПОУ с колонкой "регион" 
 * **uo_regs.csv.gz** - список юрлиц из ЕГРПОУ с колонкой "регион"
