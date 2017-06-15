@@ -1,4 +1,4 @@
-﻿## Описание файлов
+## Описание файлов
 
 #### Основные аналитические скрипты
 
@@ -16,4 +16,4 @@
 * **viz_data.R** - собираем все показатели в один файл
 
 
-Результаты выполнения скриптов записываются в папку [data_calc](https://github.com/woldemarg/tax-debt/tree/master/data_calc/)
+Результаты выполнения скриптов записываются в папку [data_calc](https://github.com/woldemarg/tax_debt/tree/master/data_calc)
